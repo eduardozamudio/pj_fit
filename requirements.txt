@@ -105,7 +105,7 @@ jupyter-core==4.5.0
 kiwisolver==1.1.0
 langdetect==1.0.7
 langid==1.1.6
-lxml==4.4.1
+lxml==4.9.1
 MarkupSafe==1.1.1
 matplotlib==3.0.3
 mistune==0.8.4
